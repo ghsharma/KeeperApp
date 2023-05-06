@@ -68,4 +68,26 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
 # KeeperApp
+<hr>
+Keeper App is a ReactJS application that allows users to create and manage different types of notes, including text notes, list notes, image notes, and audio notes. Users can also set reminders for their notes to keep themselves organized.
+
+## Usage
+
+Once the app is running, you can start creating notes. To create a new note, click the "New Note" button. You will be presented with a form where you can select the type of note you want to create: text, list, image, or audio.
+
+## Features
+
+- Create different types of notes: text, list, image, and audio
+- Set reminders for your notes
+- Edit and delete your notes
+- Save notes to local storage so they persist across sessions
+
+## Contributing
+
+If you'd like to contribute to Keeper App, please fork the repository and create a pull request. All contributions are welcome!
+
+## License
+
+Keeper App is open source software licensed under the [MIT License](https://opensource.org/licenses/MIT).
