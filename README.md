@@ -87,7 +87,3 @@ Once the app is running, you can start creating notes. To create a new note, cli
 ## Contributing
 
 If you'd like to contribute to Keeper App, please fork the repository and create a pull request. All contributions are welcome!
-
-## License
-
-Keeper App is open source software licensed under the [MIT License](https://opensource.org/licenses/MIT).
