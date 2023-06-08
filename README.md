@@ -3,6 +3,8 @@
 <hr>
 Keeper App is a ReactJS application that allows users to create and manage different types of notes, including text notes, list notes, image notes, and audio notes. Users can also set reminders for their notes to keep themselves organized.
 
+<img width="829" alt="ss" src="https://github.com/ghsharma/KeeperApp/assets/95496933/0cc26442-0ff8-4e9d-813b-74c79d2ecdd6">
+
 ## Usage
 
 Once the app is running, you can start creating notes. To create a new note, click the "New Note" button. You will be presented with a form where you can select the type of note you want to create: text, list, image, or audio.
